@@ -1,0 +1,23 @@
+body{font-family: 'Fira Sans', sans-serif;}
+.bg-black{
+    background-color: black;
+}
+.about-section p{font-size: 15px; line-height: 25px;  }
+.about-section h3{font-size: 23px; }
+.about-section .btn-success{font-size: 15px; line-height: normal;}
+.home-slider .btn-outline-light{font-size: 15px; line-height: normal; font-weight: bold;}
+.service-box h4{font-size: 18px;}
+.contact-section{background-image: url(../images/footerImage.jpg);background-size: cover; background-repeat: no-repeat;}
+.contact-section h3{font-size: 25px; font-weight: bold; }
+.contact-box  .form-control{height: 40px;}
+
+@media(max-width:991px){
+    #kndsoftSlider .carousel-caption h2{
+        font-size: 14px;
+    }
+}
+
+
+
+
+
